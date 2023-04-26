@@ -9,6 +9,10 @@ Trata-se de aplicativo desenvolvido para criação de notas. Feito para quem des
 LunaticNotes permite ao usuário criar, editar, atualizar, incluir e excluir notas de forma rápida e com segurança, possibilitando mais organização e agilidade para o usuário.
 
 
+
+
+
+
 ## :man_technologist: Habilidades Desenvolvidas
 
 #### Funcionalidades Web:
