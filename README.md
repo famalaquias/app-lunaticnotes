@@ -1,1 +1,1 @@
-<h1 align="center">📝 LunaticNotes </h1>
+<h1 align="center">📝LunaticNotes </h1>
