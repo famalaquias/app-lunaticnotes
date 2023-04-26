@@ -48,8 +48,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Router Dom](https://reactrouter.com/en/main)
 
 
-## ⚙ APIRestful
+## ⚙ API
 
+<p>
+  Clique <a href="https://github.com/famalaquias/api-lunaticnotes">aqui</a> para acessar o repositório da API do projeto LunaticNotes. 
+</p>
 
 
 ---
